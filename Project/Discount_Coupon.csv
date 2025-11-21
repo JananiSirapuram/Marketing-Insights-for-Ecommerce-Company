@@ -1,0 +1,61 @@
+Month,Product_Category,Coupon_Code,Discount_pct
+June,Electronics,,0
+May,Sports,CPN816,5
+April,Home Decor,,0
+February,Beauty,CPN859,10
+October,Beauty,,0
+January,Sports,CPN870,15
+December,Electronics,CPN429,10
+August,Beauty,,0
+November,Sports,CPN551,20
+May,Apparel,CPN881,5
+April,Apparel,CPN570,10
+May,Electronics,CPN180,20
+January,Beauty,,0
+April,Sports,CPN420,20
+March,Home Decor,CPN540,15
+July,Beauty,CPN498,5
+March,Beauty,,0
+August,Sports,,0
+December,Sports,,0
+August,Home Decor,,0
+September,Electronics,CPN984,15
+May,Home Decor,,0
+July,Electronics,CPN949,20
+January,Home Decor,CPN547,5
+June,Home Decor,,0
+May,Beauty,CPN842,5
+November,Home Decor,,0
+November,Beauty,CPN569,20
+January,Apparel,,0
+February,Apparel,CPN639,5
+March,Apparel,,0
+November,Apparel,CPN560,10
+December,Beauty,CPN934,10
+February,Sports,CPN614,10
+December,Home Decor,CPN171,5
+December,Apparel,CPN281,20
+November,Electronics,CPN386,5
+January,Electronics,,0
+February,Home Decor,CPN485,15
+September,Sports,,0
+August,Electronics,CPN784,15
+October,Home Decor,,0
+June,Beauty,,0
+March,Electronics,CPN773,20
+September,Beauty,CPN684,20
+April,Beauty,CPN836,10
+July,Home Decor,CPN995,15
+October,Electronics,,0
+September,Apparel,CPN329,5
+April,Electronics,CPN353,10
+March,Sports,CPN773,15
+October,Sports,CPN861,10
+June,Sports,,0
+June,Apparel,CPN509,5
+September,Home Decor,CPN193,20
+February,Electronics,CPN194,5
+July,Sports,CPN907,5
+July,Apparel,CPN402,20
+August,Apparel,,0
+October,Apparel,,0
